@@ -2,7 +2,9 @@
   <Folder Name="/src/">
     <Project Path="src/OrleansWorkbench.Api/OrleansWorkbench.Api.csproj" />
     <Project Path="src/OrleansWorkbench.Application/OrleansWorkbench.Application.csproj" />
+    <Project Path="src/OrleansWorkbench.Client/OrleansWorkbench.Client.csproj" />
     <Project Path="src/OrleansWorkbench.Domain/OrleansWorkbench.Domain.csproj" />
+    <Project Path="src/OrleansWorkbench.Host/OrleansWorkbench.Host.csproj" />
     <Project Path="src/OrleansWorkbench.Infrastructure/OrleansWorkbench.Infrastructure.csproj" />
   </Folder>
 </Solution>
